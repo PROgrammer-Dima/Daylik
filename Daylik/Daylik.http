@@ -1,0 +1,6 @@
+@Daylik_HostAddress = http://localhost:5010
+
+GET {{Daylik_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
